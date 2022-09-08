@@ -73,15 +73,13 @@ To reduce material waste to a minimum, the project has been designed to work wit
 
 # Autodesk Fusion 360 design
 
-The case was designed in Autodesk Fusion 360. Ideally I would have preferred to use something open source but the design is fairly complex so it requires full featured professional CAD software. Fusion 360 is however free to use for non-commercial purposes, I believe Autodesk are committed to keeping it that way.
+The case was designed in Autodesk Fusion 360 with a free hobby licence however with the crippling of free-licence features, migration to online only access and problems I've had with licence expiry and licence renewal I can no longer recommend Fusion 360 unless there is a paid licence that suits your needs.
 
-In general I'm happy with the functionality and usability of Fusion 360 compared with other 3D modeling tools I have tried but like everything this sophisticated, trying to figure out how to perform some operations, that are harder than you feel should be, can be time consuming and frustrating while you are on the learning curve.
-
-The elephant in the room with Fusion 360 is, it only runs on OSX or Windows not Linux. It is the main piece of software that ties me to these operating systems. A good reason to give [FreeCAD] a serious evaluation.
-
-It's not practical to provide a full fusion 360 tutorial on the design but here are the main points you need to modify the design that you won't find in the general Fusion 360 resources.
+I am now migrating to [FreeCAD] for new projects. [FreeCAD] unlike Fusion360 supports Linux.
 
 ## Design release versions
+
+It's not practical to provide a full fusion 360 tutorial on the design but here are the main points you need to modify the design that you won't find in the general Fusion 360 resources.
 
 This is the current fusion 360 case design. You only need it if you want to inspect the design in the Fusion 360 application, customize the case and regenerate the cut patterns.
 

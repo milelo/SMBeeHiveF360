@@ -34,13 +34,13 @@ You will need a pair of calipers, vernier or digital or similar measuring device
 
 Max measured </BR> thickness (mm) | PDF download |
 :-:|:-:
-3.7 | [SMBeeHivePCB1.2-3.7mm.pdf](cut%20pattern/SMBeeHivePCB1.2-3.7mm.pdf)
-3.5 | [SMBeeHivePCB1.2-3.5mm.pdf](cut%20pattern/SMBeeHivePCB1.2-3.5mm.pdf)
-3.3 | [SMBeeHivePCB1.2-3.3mm.pdf](cut%20pattern/SMBeeHivePCB1.2-3.3mm.pdf)
-3.1 | [SMBeeHivePCB1.2-3.1mm.pdf](cut%20pattern/SMBeeHivePCB1.2-3.1mm.pdf)
-2.9 | [SMBeeHivePCB1.2-2.9mm.pdf](cut%20pattern/SMBeeHivePCB1.2-2.9mm.pdf)
-2.7 | [SMBeeHivePCB1.2-2.7mm.pdf](cut%20pattern/SMBeeHivePCB1.2-2.7mm.pdf)
-2.5 | [SMBeeHivePCB1.2-2.5mm.pdf](cut%20pattern/SMBeeHivePCB1.2-2.5mm.pdf)
+3.7 | [SMBeeHivePCB1.2-3.7mm.pdf](cutpattern/SMBeeHivePCB1.2-3.7mm.pdf)
+3.5 | [SMBeeHivePCB1.2-3.5mm.pdf](cutpattern/SMBeeHivePCB1.2-3.5mm.pdf)
+3.3 | [SMBeeHivePCB1.2-3.3mm.pdf](cutpattern/SMBeeHivePCB1.2-3.3mm.pdf)
+3.1 | [SMBeeHivePCB1.2-3.1mm.pdf](cutpattern/SMBeeHivePCB1.2-3.1mm.pdf)
+2.9 | [SMBeeHivePCB1.2-2.9mm.pdf](cutpattern/SMBeeHivePCB1.2-2.9mm.pdf)
+2.7 | [SMBeeHivePCB1.2-2.7mm.pdf](cutpattern/SMBeeHivePCB1.2-2.7mm.pdf)
+2.5 | [SMBeeHivePCB1.2-2.5mm.pdf](cutpattern/SMBeeHivePCB1.2-2.5mm.pdf)
 
 I intend to design a simple gauge that can be cut from a piece of scrap acrylic. This should make it easier to choose the suitable pattern eliminating the need to measure the thickness and take into account the laser cut thickness.
 
